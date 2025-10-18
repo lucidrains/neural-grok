@@ -15,3 +15,15 @@ Explorations into the proposed [NeuralGrok](https://arxiv.org/abs/2504.17243) fr
     url     = {https://arxiv.org/abs/2504.17243}, 
 }
 ```
+
+```bibtex
+@misc{golechha2024progressmeasuresgrokkingrealworld,
+    title   = {Progress Measures for Grokking on Real-world Tasks}, 
+    author  = {Satvik Golechha},
+    year    = {2024},
+    eprint  = {2405.12755},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.LG},
+    url     = {https://arxiv.org/abs/2405.12755}, 
+}
+```
